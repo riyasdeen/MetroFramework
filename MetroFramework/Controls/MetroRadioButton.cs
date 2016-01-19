@@ -49,7 +49,7 @@ namespace MetroFramework.Controls
             UseTransparency();
             UseSelectable();
             UseStyleColor();
-            UseFontStyle();
+            UseFontStyle();   
         }
 
         protected override void OnPaintForeground(PaintEventArgs e)

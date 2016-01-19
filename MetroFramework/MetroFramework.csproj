@@ -81,6 +81,12 @@
       <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Controls\MetroRangeTrackBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MetroRangeTrackBar.Designer.cs">
+      <DependentUpon>MetroRangeTrackBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="MetroStyles.cs" />
     <Compile Include="Components\MetroStyleExtender.cs">
       <SubType>Component</SubType>
